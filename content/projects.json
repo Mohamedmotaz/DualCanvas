@@ -1,0 +1,185 @@
+[
+  {
+    "id": "sample-mobile",
+    "slug": "sample-mobile-app",
+    "format": "mobile",
+    "category": "Digital products",
+    "title": "Sample mobile app",
+    "subtitle": "Placeholder subtitle",
+    "description": "Placeholder description. Replace with one or two sentences about the project, using only claims you can support.",
+    "role": "Placeholder role: describe only what you did.",
+    "images": [
+      "mobile-1.png",
+      "mobile-2.png",
+      "mobile-3.png"
+    ],
+    "points": [
+      "Placeholder point one",
+      "Placeholder point two",
+      "Placeholder point three"
+    ],
+    "links": [
+      [
+        "Example link",
+        "https://example.com/",
+        "رابط تجريبي"
+      ]
+    ],
+    "color": "#efedf9",
+    "accent": "#5c43e9",
+    "ar": {
+      "title": "تطبيق جوال تجريبي",
+      "subtitle": "عنوان فرعي تجريبي",
+      "description": "وصف تجريبي. استبدله بجملة أو جملتين عن المشروع بمعلومات تستطيع إثباتها.",
+      "role": "دور تجريبي: صف ما قمت به فقط.",
+      "points": [
+        "نقطة تجريبية أولى",
+        "نقطة تجريبية ثانية",
+        "نقطة تجريبية ثالثة"
+      ]
+    },
+    "logo": "logo-a.png",
+    "cover": "mobile-1.png",
+    "screens": [
+      {
+        "image": "mobile-1.png",
+        "title": "Screen 1",
+        "arTitle": "شاشة 1",
+        "caption": "Placeholder caption: describe what this screen shows.",
+        "arCaption": "نص تجريبي: صف ما تعرضه هذه الشاشة."
+      },
+      {
+        "image": "mobile-2.png",
+        "title": "Screen 2",
+        "arTitle": "شاشة 2",
+        "caption": "Placeholder caption: describe what this screen shows.",
+        "arCaption": "نص تجريبي: صف ما تعرضه هذه الشاشة."
+      },
+      {
+        "image": "mobile-3.png",
+        "title": "Screen 3",
+        "arTitle": "شاشة 3",
+        "caption": "Placeholder caption: describe what this screen shows.",
+        "arCaption": "نص تجريبي: صف ما تعرضه هذه الشاشة."
+      }
+    ],
+    "status": [
+      "Placeholder status",
+      "حالة تجريبية"
+    ]
+  },
+  {
+    "id": "sample-web",
+    "slug": "sample-web-project",
+    "format": "web",
+    "category": "Web design",
+    "title": "Sample web project",
+    "subtitle": "Placeholder subtitle",
+    "description": "Placeholder description. Replace with one or two sentences about the project, using only claims you can support.",
+    "role": "Placeholder role: describe only what you did.",
+    "images": [
+      "web-1.png",
+      "web-2.png"
+    ],
+    "points": [
+      "Placeholder point one",
+      "Placeholder point two",
+      "Placeholder point three"
+    ],
+    "links": [],
+    "color": "#e8f1f0",
+    "accent": "#056a68",
+    "ar": {
+      "title": "مشروع ويب تجريبي",
+      "subtitle": "عنوان فرعي تجريبي",
+      "description": "وصف تجريبي. استبدله بجملة أو جملتين عن المشروع بمعلومات تستطيع إثباتها.",
+      "role": "دور تجريبي: صف ما قمت به فقط.",
+      "points": [
+        "نقطة تجريبية أولى",
+        "نقطة تجريبية ثانية",
+        "نقطة تجريبية ثالثة"
+      ]
+    },
+    "logo": null,
+    "cover": "web-1.png",
+    "screens": [
+      {
+        "image": "web-1.png",
+        "title": "Screen 1",
+        "arTitle": "شاشة 1",
+        "caption": "Placeholder caption: describe what this screen shows.",
+        "arCaption": "نص تجريبي: صف ما تعرضه هذه الشاشة."
+      },
+      {
+        "image": "web-2.png",
+        "title": "Screen 2",
+        "arTitle": "شاشة 2",
+        "caption": "Placeholder caption: describe what this screen shows.",
+        "arCaption": "نص تجريبي: صف ما تعرضه هذه الشاشة."
+      }
+    ],
+    "status": [
+      "Placeholder status",
+      "حالة تجريبية"
+    ]
+  },
+  {
+    "id": "sample-brand",
+    "slug": "sample-brand-identity",
+    "format": "brand",
+    "category": "Brand identity",
+    "title": "Sample brand identity",
+    "subtitle": "Placeholder subtitle",
+    "description": "Placeholder description. Replace with one or two sentences about the project, using only claims you can support.",
+    "role": "Placeholder role: describe only what you did.",
+    "images": [
+      "brand-1.png",
+      "brand-2.png"
+    ],
+    "points": [
+      "Placeholder point one",
+      "Placeholder point two",
+      "Placeholder point three"
+    ],
+    "links": [],
+    "color": "#ece9df",
+    "accent": "#ac8539",
+    "ar": {
+      "title": "هوية بصرية تجريبية",
+      "subtitle": "عنوان فرعي تجريبي",
+      "description": "وصف تجريبي. استبدله بجملة أو جملتين عن المشروع بمعلومات تستطيع إثباتها.",
+      "role": "دور تجريبي: صف ما قمت به فقط.",
+      "points": [
+        "نقطة تجريبية أولى",
+        "نقطة تجريبية ثانية",
+        "نقطة تجريبية ثالثة"
+      ]
+    },
+    "logo": "logo-b.png",
+    "cover": "brand-1.png",
+    "screens": [
+      {
+        "image": "brand-1.png",
+        "title": "Screen 1",
+        "arTitle": "شاشة 1",
+        "caption": "Placeholder caption: describe what this screen shows.",
+        "arCaption": "نص تجريبي: صف ما تعرضه هذه الشاشة."
+      },
+      {
+        "image": "brand-2.png",
+        "title": "Screen 2",
+        "arTitle": "شاشة 2",
+        "caption": "Placeholder caption: describe what this screen shows.",
+        "arCaption": "نص تجريبي: صف ما تعرضه هذه الشاشة."
+      }
+    ],
+    "status": [
+      "Placeholder status",
+      "حالة تجريبية"
+    ],
+    "note": {
+      "en": "Placeholder note shown on this project page, e.g. a disclaimer. Remove the field if not needed.",
+      "ar": "ملاحظة تجريبية تظهر في صفحة المشروع. احذف الحقل إن لم تحتاجه."
+    }
+  }
+]

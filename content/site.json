@@ -1,0 +1,130 @@
+{
+  "origin": "https://example.com",
+  "name": "Your Name",
+  "nameAr": "اسمك",
+  "wordmark": [
+    "YOUR",
+    "NAME"
+  ],
+  "jobTitle": "Your job title",
+  "location": {
+    "en": "Your city, Your country",
+    "ar": "مدينتك، بلدك"
+  },
+  "email": "you@example.com",
+  "heroProject": "sample-mobile",
+  "heroCaption": {
+    "en": "Placeholder hero caption.",
+    "ar": "عنوان تجريبي للصورة الرئيسية."
+  },
+  "tagline": {
+    "en": "YOUR NAME · YOUR FIELD",
+    "ar": "اسمك · مجالك"
+  },
+  "intro": {
+    "en": "Placeholder introduction: one or two sentences about who you are and what you make.",
+    "ar": "مقدمة تجريبية: جملة أو جملتان عمّن أنت وماذا تصنع."
+  },
+  "description": {
+    "en": "Placeholder site description for search engines.",
+    "ar": "وصف تجريبي للموقع لمحركات البحث."
+  },
+  "title": {
+    "en": "Your Name - Portfolio",
+    "ar": "اسمك - معرض الأعمال"
+  },
+  "practice": [
+    {
+      "en": "Practice area one",
+      "ar": "مجال أول"
+    },
+    {
+      "en": "Practice area two",
+      "ar": "مجال ثانٍ"
+    },
+    {
+      "en": "Practice area three",
+      "ar": "مجال ثالث"
+    }
+  ],
+  "about": {
+    "headline": {
+      "en": "Placeholder headline.",
+      "ar": "عنوان تجريبي."
+    },
+    "paragraphs": [
+      {
+        "en": "Placeholder about paragraph one.",
+        "ar": "فقرة تجريبية أولى."
+      },
+      {
+        "en": "Placeholder about paragraph two.",
+        "ar": "فقرة تجريبية ثانية."
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": {
+      "en": "EXPERIENCE",
+      "ar": "الخبرة"
+    },
+    "headline": {
+      "en": "Placeholder experience headline.",
+      "ar": "عنوان خبرة تجريبي."
+    },
+    "text": {
+      "en": "Placeholder text about your experience.",
+      "ar": "نص تجريبي عن خبرتك."
+    },
+    "items": [
+      {
+        "label": "2020",
+        "title": {
+          "en": "Role title",
+          "ar": "المسمى"
+        },
+        "text": {
+          "en": "Organisation or school",
+          "ar": "الجهة"
+        }
+      },
+      {
+        "label": "2024",
+        "title": {
+          "en": "Another role or degree",
+          "ar": "دور أو شهادة أخرى"
+        },
+        "text": {
+          "en": "Organisation or school",
+          "ar": "الجهة"
+        }
+      }
+    ]
+  },
+  "cvs": [
+    {
+      "file": "cv-primary.pdf",
+      "label": {
+        "en": "Primary CV",
+        "ar": "السيرة الذاتية الأساسية"
+      }
+    },
+    {
+      "file": "cv-secondary.pdf",
+      "label": {
+        "en": "Second CV",
+        "ar": "سيرة ذاتية ثانية"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/your-username"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/your-username/"
+    }
+  ]
+}
